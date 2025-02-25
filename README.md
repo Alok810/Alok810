@@ -8,7 +8,7 @@ I'm a **Computer Science Engineering student** at **NIAMT Ranchi** with a passio
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok810" alt="alok810" /></a> </p>
 
 ### 🚀 About Me:
-- 💻 Passionate about **Web Development, DSA, and Blockchain Technology**
+- 💻 Passionate about **Web Development, DSA, and Machine Learning**
 - 🎯 Quick learner and always eager to take on new challenges
 - 🤝 Team player who enjoys collaborating on projects
 - ♟️ Love playing **chess** and **cricket** in my free time
